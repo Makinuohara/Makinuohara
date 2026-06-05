@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+preview.html
+*-preview.png
+/tests/
+/tools/
