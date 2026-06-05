@@ -4,3 +4,10 @@ preview.html
 *-preview.png
 /tests/
 /tools/
+/.tools/
+/wallpaper-extract/
+/crop-*.jpg
+/stats-*.svg
+/profile-stats-preview.svg
+/language-stats-preview.svg
+/dist-preview/

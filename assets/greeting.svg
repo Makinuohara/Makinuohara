@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" role="img" aria-labelledby="title desc">
+  <title id="title">A small part of me. Glad we met.</title>
+  <desc id="desc">A soft pink handwritten greeting.</desc>
+  <text
+    x="600"
+    y="78"
+    text-anchor="middle"
+    fill="#cf6f8b"
+    font-family="'Segoe Print', 'Comic Sans MS', 'Bradley Hand', cursive"
+    font-size="54"
+    font-weight="600"
+    letter-spacing="1"
+  >A small part of me. Glad we met.</text>
+  <path d="M405 103 C500 120 700 120 795 103" fill="none" stroke="#edb6c5" stroke-width="5" stroke-linecap="round"/>
+</svg>
