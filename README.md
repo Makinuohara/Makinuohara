@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.jpg" width="100%" alt="Pink floral illustration from my desktop wallpaper" />
+  <img src="./assets/profile-banner.png" width="100%" alt="Pink floral illustration from my desktop wallpaper" />
 </div>
 
 <div align="center">
@@ -24,6 +24,13 @@
 - Computer Science sophomore at Beijing University of Posts and Telecommunications
 - Exploring software, systems, and hardware while documenting what I learn along the way
 - I hope to become capable, remarkable, and true to the person I want to be
+
+---
+
+## Contact
+
+- School: [wangnai@bupt.edu.cn](mailto:wangnai@bupt.edu.cn)
+- Personal: [ragingbulls7468@gmail.com](mailto:ragingbulls7468@gmail.com)
 
 ---
 
